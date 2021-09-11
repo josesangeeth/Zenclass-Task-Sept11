@@ -1,0 +1,28 @@
+body{
+    font-family: "Roboto",sans-serif;
+    background-color: whitesmoke;
+}
+:root{
+    font-size: 20px;
+}
+.side-heading{
+    font-weight: bold;
+}
+.container{
+    background-color: white;
+    max-width: 15rem;
+    border-radius: 0.5rem;
+    overflow: auto;
+    box-shadow: 3px 3px 10px 0px rgba(50,50,50,0.1);
+}
+.outer{
+    display:flex;
+    gap: 20px;
+}
+.info{
+    padding:1rem;
+}
+.flag{
+    height: 10rem;
+    width:100%;
+}
